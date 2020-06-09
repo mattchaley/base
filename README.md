@@ -22,7 +22,7 @@ margin={
 }
 ```
 
-- `colors`: array of metrics color (should be equal or greater than series length);
+- `colors`: array of metrics colors (should be equal or greater than series length);
 ```js
 ['red', 'blue', 'green']
 ```
